@@ -2,7 +2,7 @@
 title: O nama
 layout: landing
 description: 'Nema ničeg lošeg u tome da nešto ne ide kako si planirao. Prilagoditi se stvarima koje ne možeš kontrolirati, to je vrlina.'
-image: assets/images/logo.jpg
+image: assets/images/logo.png
 nav-menu: true
 ---
 
