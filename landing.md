@@ -1,7 +1,7 @@
 ---
 title: O nama
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Nema ničeg lošeg u tome da nešto ne ide kako si planirao. Prilagoditi se stvarima koje ne možeš kontrolirati, to je vrlina.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
