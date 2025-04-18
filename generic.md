@@ -2,7 +2,7 @@
 layout: post
 title: Izvođenje
 description: 
-image: assets/images/pic11.jpg
+image: assets/images/rad.jpg
 nav-menu: true
 ---
 
