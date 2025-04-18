@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: All posts
+title: Opis usluga
 landing-title: 'All posts'
 nav-menu: true
 description: null
