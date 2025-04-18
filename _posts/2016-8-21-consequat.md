@@ -1,22 +1,8 @@
 ---
 layout: post
-title: Consequat
+title: Adaptacije
 description: Ipsum dolor sit amet
 image: assets/images/pic05.jpg
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Adaptacije stanova i kuća jedna su od glavnih djelatnosti tvrtke RENETCH COMPANY j.d.o.o., a svakoj adaptaciji pristupamo individualno, stručno i s maksimalnom pažnjom. Bilo da se radi o kompletnoj adaptaciji stana, renovaciji jedne prostorije, preuređenju starije kuće ili osvježenju poslovnog prostora, naš tim inženjera i majstora osigurava potpunu uslugu – od idejnog rješenja i projektiranja do završnih radova. Klijentima nudimo jasnu komunikaciju, transparentne troškovnike i stručni nadzor kroz cijeli proces. Kod svake adaptacije brinemo o svim fazama radova: demontažama, zidarskim i betonskim radovima, vodoinstalaterskim i elektroinstalaterskim poslovima, postavljanju keramike, obradi zidova, podovima, stolariji i završnim detaljima. Imamo iskustva i s adaptacijama u zgradama koje zahtijevaju dodatnu pažnju u pogledu buke, zaštite prostora i rokova, što posebno cijene naši klijenti koji žive ili rade u istom prostoru tijekom radova. Naš cilj nije samo preuređenje, već stvaranje prostora koji je funkcionalan, estetski privlačan i prilagođen potrebama korisnika. Pomažemo klijentima u donošenju odluka, nudimo savjete za poboljšanja i pazimo na svaki detalj. Svaku adaptaciju nadzire ovlašteni magistar građevine, a sve potrebne dokumentacije – od građevinskog dnevnika do građevinske knjige – vode se uredno i profesionalno. Kod nas ne postoji "standardna adaptacija" – svaka je priča za sebe i svako rješenje prilagođavamo prostoru i željama klijenta. Ako tražite pouzdanu firmu koja će preuzeti kompletnu odgovornost za adaptaciju vašeg prostora, s RENETCH COMPANY j.d.o.o. možete biti sigurni da će posao biti odrađen stručno, kvalitetno i na vrijeme. Naše iskustvo, predanost i inženjerska preciznost ključ su uspješnih rezultata koji traju.
