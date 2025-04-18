@@ -31,5 +31,4 @@ nav-menu: true
 
 <hr class="major" />
 </section>
-
 </div>
