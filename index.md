@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Dobrodošli na RTC stranicu'
+landing-title: 'Inženjerske usluge i izvođenje radova'
 description: null
 image: null
 author: null
