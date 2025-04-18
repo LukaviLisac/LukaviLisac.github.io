@@ -15,7 +15,20 @@ nav-menu: true
 		<header class="major">
 			<h2>Sed amet aliquam</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>RENTECH je mlada, dinamična i inovativna građevinska tvrtka koja spaja tradiciju graditeljstva s
+najnovijim tehnologijama, stavljajući naglasak na efikasnost, kvalitetu i održivost. Na čelu tvrtke
+je Ivan Renić, ovlašteni magistar građevine s višegodišnjim iskustvom, koji je ujedno osnivač i
+direktor RENTECH-a.
+S bogatim iskustvom u niskogradnji, Ivan je radio na jednom od najvećih projekata aglomeracije
+(Aglomeracija - Velika Gorica), gdje je vodio dnevnik i građevinsku knjigu za glavnog izvoditelja
+radova. Također, ima iskustvo u ugovaranju i nuđenju koje je stekao radom u Dalekovod d.d.,
+gdje je sudjelovao u procesu davanja ponuda i ugovaranja na natječajima za skandinavske
+države. Radio je za investitora na jednom od najvećih infrastrukturnih projekata u Hrvatskoj –
+Probijanje druge cijevi tunela Učka.
+Ivan ima iskustva i u upravljanju i održavanju zgrada, gdje je osim financijskog i stručnog
+upravljanja i održavanja zgradama, bio uključen i u projektiranje, stručni nadzor te vođenje
+projekata energetske obnove, od prijave na natječaj do procesa projektiranja i same izvedbe na
+terenu.</p>
 	</div>
 </section>
 
