@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Izvođenje
+title: Izvođenje radova
 description: 
 image: assets/images/rad.jpg
 nav-menu: true
