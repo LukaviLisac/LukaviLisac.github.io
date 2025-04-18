@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Elementsgg
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
