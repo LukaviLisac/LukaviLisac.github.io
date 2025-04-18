@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Iskustvo</h2>
 		</header>
 		<p>RENTECH je mlada, dinamična i inovativna građevinska tvrtka koja spaja tradiciju graditeljstva s
 najnovijim tehnologijama, stavljajući naglasak na efikasnost, kvalitetu i održivost. Na čelu tvrtke
@@ -35,16 +35,12 @@ terenu.</p>
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Kultura firme</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-	
+				<p>RENTECH se ponosi svojom sposobnošću da učinkovito koristi najnovije tehnologije, poput umjetne inteligencije (AI), kako bi unaprijedili procese na gradilištu i osigurala maksimalnu efikasnost u svakodnevnom radu. Korištenje AI-a omogućava preciznije planiranje, optimizaciju resursa, vremenskih i financijskih troškova te bolju komunikaciju sa svim sudionicima projekta, čime garantira da svaki projekt bude izveden u skladu s najvišim standardima. Osim toga, RENTECH je uvijek u korak s vremenom, pa omogućujemo i mogućnost djelomičnog plaćanja kriptovalutama, čime pružamo dodatnu fleksibilnost našim klijentima u skladu s najnovijim trendovima u financijskom sektoru. Naš cilj je biti lider u integraciji novih tehnologija u građevinsku industriju i kontinuirano raditi na unapređenju svojih usluga kako bi osigurali da svaki projekt bude izveden brzo, kvalitetno i u okviru budžeta. Sa RENTECH-om, gradnja više nije samo proces – to je iskustvo koje se temelji na inovaciji, povjerenju i partnerstvu.</p>
 			</div>
 		</div>
 	</section>
