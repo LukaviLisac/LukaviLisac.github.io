@@ -21,10 +21,10 @@ nav-menu: true
 
 <!-- Two -->
 <section id="one">
-	<div class="spotlights">
+	<div class="inner">
 		<header class="major">
-			<h2>Misija, vizija i vrijednosti</h2>
-				</header>
+			<h2>Vrijednosti RENTECH-a</h2>
+		</header>
 				<p>RENTECH se ponosi svojom sposobnošću da učinkovito koristi najnovije tehnologije, poput <b>umjetne inteligencije (AI)</b>, kako bi unaprijedili procese na gradilištu i osigurala maksimalnu efikasnost u svakodnevnom radu. Korištenje AI-a omogućava preciznije planiranje, optimizaciju resursa, vremenskih i financijskih troškova te bolju komunikaciju sa svim sudionicima projekta, čime garantira da svaki projekt bude izveden u skladu s najvišim standardima. Osim toga, RENTECH je uvijek u korak s vremenom, pa omogućujemo i mogućnost djelomičnog plaćanja <b>kriptovalutama</b>, čime pružamo dodatnu fleksibilnost našim klijentima u skladu s najnovijim trendovima u financijskom sektoru. 
 				Naš cilj je biti lider u integraciji novih tehnologija u građevinsku industriju i kontinuirano raditi na unapređenju svojih usluga kako bi osigurali da svaki projekt bude izveden brzo, kvalitetno i u okviru budžeta. Sa RENTECH-om, gradnja više nije samo proces – to je iskustvo koje se temelji na inovaciji, povjerenju i partnerstvu.</p>
 			</div>
