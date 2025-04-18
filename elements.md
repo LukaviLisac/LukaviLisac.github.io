@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Elementsgg
-image: assets/images/pic01.jpg
+title: Inženjerske usluge
+image: assets/images/vodjenje.jpg
 nav-menu: true
 ---
 
