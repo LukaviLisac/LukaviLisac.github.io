@@ -14,7 +14,6 @@ nav-menu: true
 		<header class="major">
 			<h1>Inženjerske usluge</h1>
 		</header>
-		
 <!-- Break -->
 	<div class="inner">
 		<h3>Interdum sapien gravida</h3>
