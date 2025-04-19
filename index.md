@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Inženjerske usluge i izvođenje radova'
+landing-title: 'Inženjerske usluge i Izvođenje radova'
 description: null
 image: null
 author: null
