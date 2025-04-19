@@ -2,7 +2,6 @@
 layout: post
 title: Izvođenje radova
 description: 
-image: assets/images/rad.jpg
 nav-menu: true
 ---
 
