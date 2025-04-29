@@ -83,7 +83,7 @@
 				position: absolute;
 				right: 1.5em;
 				top: 0;
-				vertical-align: middle;
+				/* Removed vertical-align: middle; as it is not applicable with display: block */
 				width: 36px;
 			}
 
